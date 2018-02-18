@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo2</string>
+
+
+    <string-array name="director_names">
+        <item>"Jajang Nurjaman"</item>
+        <item>"Fanharil Ardian"</item>
+        <item>"Rizaldi Haqiki"</item>
+        <item>"Siti Hartina"</item>
+        <item>"Nada Try Pasha"</item>
+        <item>"Ridho Akbar"</item>
+        <item>"Ridwan Aam"</item>
+        <item>"Sasuke Hartono"</item>
+        <item>"Yurifatul Iswara"</item>
+        <item>"Dhinda Putri Maesa"</item>
+        <item>"Hikam Haekal Rosyadi"</item>
+        <item>"Fiqih Rosyadi"</item>
+        <item>"Helmi Khairullah"</item>
+        <item>"Firza Vendanda"</item>
+    </string-array>
+
+    <string-array name="filim_names">
+        <item>"Along Gods"</item>
+        <item>"Beauty and The Beast"</item>
+        <item>"Black Panther"</item>
+        <item>"Dilan 1990"</item>
+        <item>"Hangout"</item>
+        <item>"Transformer 4"</item>
+        <item>"LDR"</item>
+        <item>"Leap!"</item>
+        <item>"Chrisye"</item>
+        <item>"Rafathar"</item>
+        <item>"Satria Heroes"</item>
+        <item>"Surat Cinta Untuk Starla"</item>
+        <item>"Surau Silek"</item>
+        <item>"X Men Days of Future Past 2014"</item>
+    </string-array>
+
+
+</resources>
